@@ -3,7 +3,7 @@
 
 (defun sum357 (i sum)
   ; if i is greater than or equal to 1000, print number and quit
-  (if (> i 1000)
+  (if (> i 750)
     (progn
       (print sum)
       (quit)
